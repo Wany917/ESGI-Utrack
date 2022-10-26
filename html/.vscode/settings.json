@@ -1,17 +1,3 @@
-{
-    "sqltools.connections": [
-        {
-            "mysqlOptions": {
-                "authProtocol": "default"
-            },
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 7778,
-            "driver": "MySQL",
-            "name": "testCnnection",
-            "database": "utrackpa",
-            "username": "yvann",
-            "password": "yvann"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:041901258ce163fb35eb5ef03c2f9fe2312d8b99a9d7487838d6fa5859f050bc
+size 408

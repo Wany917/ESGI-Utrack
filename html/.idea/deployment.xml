@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="PublishConfigData" serverName="utrack" remoteFilesAllowedToDisappearOnAutoupload="false">
-    <serverData>
-      <paths name="utrack">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/var/www/html" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-    </serverData>
-  </component>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f16fa2df2fb78930f843856919a1e88a011e4fdbd6a0c534f640f9e337280a3
+size 436
